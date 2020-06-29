@@ -14,7 +14,7 @@ const ChannelInfo: React.FC = () => {
 
 			<Description>Canal aberto para conversas</Description>
 		</Container>
-	)
+	);
 };
 
 export default ChannelInfo;
